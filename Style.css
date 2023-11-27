@@ -1,0 +1,157 @@
+.body{
+    font font-family: , cursive;
+    font-size: 20px;
+}
+
+.wrapper{
+    width: 90%;
+    margin: auto;
+    height: auto;
+    box-shadow: 0px 8px 11px -5px rgb(6 ,1 ,51 );
+}
+
+.block1{
+    width: 100%;
+    height: 55vh;
+    color: black;
+    text-align: center;
+    margin-top: 10vh;
+}
+
+.block1-2 img{
+    width: 410px;
+    height: 369px;
+    border-radius: 10%;
+}
+
+.block-2{
+    width: 100%;
+    text-align: center;
+}
+
+.block-2-heading{
+    background: linear-gradient(to right,#00fff2,#00d5ff);
+    height: 100px;
+    font-weight: bolder;
+    padding-top: 2px;
+    font-size: 25px;
+}
+
+.block3-image img{
+    width: 35vw;
+    height: 50vh;
+    box-shadow: 0px, 8px, 11px, 5px rgb(6 ,1 ,51 );
+    width: 40%;
+    margin-left: 60%;
+    margin-right: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.block3-heading{
+    background: linear-gradient(to right,#00fff2,#00d5ff);
+    min-height: 75px;
+    font-size: 2em;
+    padding-top: 20px;
+    color: black;
+    font-weight:bolder ;
+    text-align: center;
+}
+
+.block3-text{
+    width: 100%;
+    height: 90%;
+    font-size: 1em;
+    text-align: left;
+    margin-right: 60%;
+
+}
+
+.block4{
+    width: 100%;
+    padding: 10px 0;
+    border-top: 2px solid blue;
+    text-align: center;
+}
+
+.block4-2{
+   width: 100%; 
+   margin: auto;
+}
+
+.block4-head{
+    background: linear-gradient(to right,#00fff2,#00d5ff);
+    font-weight: bolder;
+    height: 100px;
+    font-size: auto;
+    padding: 5px;
+}
+
+.block1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.block2-cards{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+    padding: 40px 0;
+    min-height: 75px;
+}
+
+.block2-items{
+    width: 30%;
+    height: 100%;
+    padding: 20px 40px;
+    position: relative;
+}
+
+.block-2-items h4{
+    padding: 10px 0;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.block-2-items p{
+    padding: 10px;
+    font-size: 0.8em;
+    word-spacing: 4px;
+}
+
+.details_link{
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.block2-items:hover{
+    background-color: rgb(2, 242, 255);
+    transition: all 200ms ease-in;
+    color: black;
+}
+
+.block3-content{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+    color: black;
+    flex-direction: column;
+    text-align: left;
+}
+
+.block3{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 60%;
+    text-align: left;
+}
+
+.form-1{
+    text-align: left;
+    margin-left: 5%;
+}
+
+
